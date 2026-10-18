@@ -1,0 +1,4 @@
+C:\Users\User\Downloads\Nxo 6.3 Analyzation\NXO\obj\Debug\net472\NXO.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Nxo 6.3 Analyzation\NXO\obj\Debug\net472\NXO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Nxo 6.3 Analyzation\NXO\obj\Debug\net472\NXO.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Nxo 6.3 Analyzation\NXO\obj\Debug\net472\NXO.IgnoresAccessChecksTo.cs

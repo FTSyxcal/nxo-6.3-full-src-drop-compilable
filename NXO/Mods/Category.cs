@@ -1,0 +1,43 @@
+﻿
+#nullable disable
+namespace NXO.Mods;
+
+public enum Category
+{
+  Home,
+  Searched_Mods,
+  Settings,
+  Presets,
+  Recorded_Macros,
+  Saved_Presets,
+  Gear_Menu,
+  Enabled,
+  Favorited,
+  Player_Action,
+  Player_Mods,
+  Safety,
+  Players,
+  Room,
+  Player,
+  Movement,
+  Gamemode,
+  Visuals,
+  Audio,
+  Fun,
+  Projectiles,
+  Macros,
+  Nextbots,
+  Overpowered,
+  Soundboard,
+  Custom_Sounds,
+  Custom_Nextbots,
+  SFX,
+  Trolling,
+  Songs,
+  Default,
+  Menu_Settings,
+  Notification_Settings,
+  Gun_Settings,
+  Color_Settings,
+  Element_Settings,
+}
